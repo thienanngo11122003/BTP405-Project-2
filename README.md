@@ -17,8 +17,21 @@ Our product (statement of primary differentiation): Distinguishes itself by adop
 
 •	Agile software engineering:
 
- 
- 
+ <img width="426" alt="image" src="https://github.com/thienanngo11122003/BTP405-Project-2/assets/132942173/b718a674-0535-41cf-ae0f-2a97bef20632">
+
+<img width="468" alt="image" src="https://github.com/thienanngo11122003/BTP405-Project-2/assets/132942173/f61daedd-5b03-40db-bed6-ecc481406000">
+
+<img width="468" alt="image" src="https://github.com/thienanngo11122003/BTP405-Project-2/assets/132942173/c64222ee-ab02-4ba8-958c-7400da5d5f1d">
+
+<img width="468" alt="image" src="https://github.com/thienanngo11122003/BTP405-Project-2/assets/132942173/8b30735a-dfa5-4159-871e-072200dcfa60">
+
+<img width="468" alt="image" src="https://github.com/thienanngo11122003/BTP405-Project-2/assets/132942173/5210893b-4fad-4c57-adb5-eb9e2c30199f">
+
+<img width="468" alt="image" src="https://github.com/thienanngo11122003/BTP405-Project-2/assets/132942173/99263caa-f955-4559-a63e-e3191b6c63fc">
+
+
+
+
  
  
   
