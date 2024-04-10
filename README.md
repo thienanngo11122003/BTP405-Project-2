@@ -56,14 +56,4 @@ The system is designed to handle a large volume of concurrent users and reservat
 Interoperability:
 The use of standardized protocols and data formats facilitates interoperability with existing restaurant management systems and third-party applications. RESTful APIs are provided to enable seamless integration with external systems, allowing for the exchange of reservation data, user information, and other system functionalities. This promotes collaboration and interoperability with various stakeholders in the restaurant industry.
 
-•	Cloud-Based Software: 
 
-•	Microservices Architecture:
-
-•	Security and Privacy:
-
-•	Reliable Programming: 
-
-•	Testing:
-
-•	DevOps and Code management:
